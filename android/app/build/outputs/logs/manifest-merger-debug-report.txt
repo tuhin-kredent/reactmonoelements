@@ -1,0 +1,458 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:liquidswipe] D:\react-native-elements-app\android\liquidswipe\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] D:\react-native-elements-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] D:\react-native-elements-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] D:\react-native-elements-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\94902dff3c144a795fa3dd876d4c6fdf\AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] D:\react-native-elements-app\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lottie-3.3.1.aar\2c9c460153b706c5798fe9c5a42cc604\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha01] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0-alpha01.aar\66b630a669779c0a46713a720aa4b437\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\520c001d13e69d2204ec700f08887d0b\AndroidManifest.xml:1:1-3:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-ktx-1.1.0.aar\fa14b67d69cf3022962f4f7d4ec3a5a6\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\c0546f0e7e11f85f8f95903ed16d78ea\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\43afea435ab771f5885e4aade45ef1db\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\19d819e1469fbb7947b83d93048083db\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\310304cde48ecc1c4757fb2bf7b7dca0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\1978ed4825076977074c0afd739ae3f0\AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-web-browser] D:\react-native-elements-app\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\51f32bb0bc4af6fce8eeeb5dc2c9630c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\626282e01b67113073be5af0f0eb7cbe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.1.0-alpha03.aar\abb9b272ca6498a5817cea0f44b9d49a\AndroidManifest.xml:17:1-24:12
+MERGED from [:unimodules-react-native-adapter] D:\react-native-elements-app\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] D:\react-native-elements-app\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] D:\react-native-elements-app\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-font] D:\react-native-elements-app\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] D:\react-native-elements-app\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] D:\react-native-elements-app\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-sqlite] D:\react-native-elements-app\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] D:\react-native-elements-app\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] D:\react-native-elements-app\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] D:\react-native-elements-app\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] D:\react-native-elements-app\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] D:\react-native-elements-app\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] D:\react-native-elements-app\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] D:\react-native-elements-app\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] D:\react-native-elements-app\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] D:\react-native-elements-app\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] D:\react-native-elements-app\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] D:\react-native-elements-app\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\67a9066f2a92c2939ac3e903fb67aa8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\8b3470d136534dbcae291cdc8d676410\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\de283cfbead77e0ec67f167aeedffda1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha01] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0-alpha01.aar\74cd5f305e4237b2b9d1635b7c3d18db\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f010927334b527328d7b3ae721a7883e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\b6784084e17edade6b2d3a54b398233d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\eab8e4e83f1064ad73d1f2d02986f801\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d26897bcfe08b2785e00aa3a38ab1cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\221143db470a8f2fb317a0619a606bba\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\d39e0a5667a3f8d15e10036683b4d4a9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\190d69c243c8a51acb5ed52922bf71b1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\b43fc3c99c0e14368ac73a26c92a9751\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c9f33265e3b8d49b291b2d7f886fa1fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4773138db27fd0be3df116f0c52703ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\0edadc758f2e1f39f65c351b3d020fad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1a171e30e63e13ebd08678e405519cbe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d15601e504484151de83af417859fde1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8e7de93c7f10f7dbac52c9c169e1446a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\136599e5921afdf5d005b57a40a5c531\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a6393915b5fe6d171e23458613f788ea\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\a1bbc9167b00cd8c03d35d69bf95cf35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\8d539e3f511010208ad561dfb2dece2e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\bb0d1607e6722559411838527f90275e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6174d2fe1e71b9367e7827c397e20fc9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\2f33901645c8d44b55b1f5ae0512fc1a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cd33567c81a482707b90ca33ba7f1473\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\9a67ae825d40f3baea31a093d37fe296\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5dec589c4502fbe4481cb385db309ba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b6bd66e5895a0c50dbed0410e54ea5de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\7f268c1a595e66c437cd730aa09bcfb9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\6906cf9409cfa1895be29a23e6948a6a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\3160afe9e4121d8476f0f9f76f2ead10\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\c344b601b4b0ffff8453668d7807b550\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\07ca7e970ada27040a0210460207e476\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\7543a5b365e8a5be60119e81983407d5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\b6c93922fdd914ae93d3348c2d01260e\AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\ce0836048c0d95c92813b30cb79219ff\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:6:22-75
+application
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\94902dff3c144a795fa3dd876d4c6fdf\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\94902dff3c144a795fa3dd876d4c6fdf\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lottie-3.3.1.aar\2c9c460153b706c5798fe9c5a42cc604\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lottie-3.3.1.aar\2c9c460153b706c5798fe9c5a42cc604\AndroidManifest.xml:9:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\520c001d13e69d2204ec700f08887d0b\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\520c001d13e69d2204ec700f08887d0b\AndroidManifest.xml:2:3-17
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\c0546f0e7e11f85f8f95903ed16d78ea\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\c0546f0e7e11f85f8f95903ed16d78ea\AndroidManifest.xml:9:5-20
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\43afea435ab771f5885e4aade45ef1db\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\43afea435ab771f5885e4aade45ef1db\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\19d819e1469fbb7947b83d93048083db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\19d819e1469fbb7947b83d93048083db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\310304cde48ecc1c4757fb2bf7b7dca0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\310304cde48ecc1c4757fb2bf7b7dca0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\8b3470d136534dbcae291cdc8d676410\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\8b3470d136534dbcae291cdc8d676410\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d15601e504484151de83af417859fde1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d15601e504484151de83af417859fde1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a6393915b5fe6d171e23458613f788ea\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a6393915b5fe6d171e23458613f788ea\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\7f268c1a595e66c437cd730aa09bcfb9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\7f268c1a595e66c437cd730aa09bcfb9\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\b6c93922fdd914ae93d3348c2d01260e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\b6c93922fdd914ae93d3348c2d01260e\AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d15601e504484151de83af417859fde1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.stockedgeclub.MainActivity
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:23:9-86
+	android:name
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:23:19-83
+activity#com.stockedgeclub.MainApplication
+ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:24:9-28:20
+	android:label
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:25:13-44
+uses-sdk
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+MERGED from [:liquidswipe] D:\react-native-elements-app\android\liquidswipe\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:liquidswipe] D:\react-native-elements-app\android\liquidswipe\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\react-native-elements-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\react-native-elements-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\react-native-elements-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\react-native-elements-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\react-native-elements-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\react-native-elements-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\94902dff3c144a795fa3dd876d4c6fdf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\94902dff3c144a795fa3dd876d4c6fdf\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] D:\react-native-elements-app\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] D:\react-native-elements-app\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lottie-3.3.1.aar\2c9c460153b706c5798fe9c5a42cc604\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lottie-3.3.1.aar\2c9c460153b706c5798fe9c5a42cc604\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha01] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0-alpha01.aar\66b630a669779c0a46713a720aa4b437\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha01] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0-alpha01.aar\66b630a669779c0a46713a720aa4b437\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-ktx-1.1.0.aar\fa14b67d69cf3022962f4f7d4ec3a5a6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-ktx-1.1.0.aar\fa14b67d69cf3022962f4f7d4ec3a5a6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\c0546f0e7e11f85f8f95903ed16d78ea\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\c0546f0e7e11f85f8f95903ed16d78ea\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\43afea435ab771f5885e4aade45ef1db\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\43afea435ab771f5885e4aade45ef1db\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\19d819e1469fbb7947b83d93048083db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\19d819e1469fbb7947b83d93048083db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\310304cde48ecc1c4757fb2bf7b7dca0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\310304cde48ecc1c4757fb2bf7b7dca0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\1978ed4825076977074c0afd739ae3f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\1978ed4825076977074c0afd739ae3f0\AndroidManifest.xml:20:5-44
+MERGED from [:expo-web-browser] D:\react-native-elements-app\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] D:\react-native-elements-app\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\51f32bb0bc4af6fce8eeeb5dc2c9630c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\51f32bb0bc4af6fce8eeeb5dc2c9630c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\626282e01b67113073be5af0f0eb7cbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\626282e01b67113073be5af0f0eb7cbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.1.0-alpha03.aar\abb9b272ca6498a5817cea0f44b9d49a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.1.0-alpha03.aar\abb9b272ca6498a5817cea0f44b9d49a\AndroidManifest.xml:20:5-22:41
+MERGED from [:unimodules-react-native-adapter] D:\react-native-elements-app\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] D:\react-native-elements-app\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] D:\react-native-elements-app\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] D:\react-native-elements-app\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] D:\react-native-elements-app\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] D:\react-native-elements-app\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] D:\react-native-elements-app\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] D:\react-native-elements-app\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] D:\react-native-elements-app\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] D:\react-native-elements-app\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] D:\react-native-elements-app\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] D:\react-native-elements-app\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] D:\react-native-elements-app\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] D:\react-native-elements-app\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] D:\react-native-elements-app\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] D:\react-native-elements-app\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] D:\react-native-elements-app\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] D:\react-native-elements-app\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] D:\react-native-elements-app\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] D:\react-native-elements-app\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] D:\react-native-elements-app\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] D:\react-native-elements-app\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] D:\react-native-elements-app\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] D:\react-native-elements-app\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] D:\react-native-elements-app\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] D:\react-native-elements-app\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] D:\react-native-elements-app\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] D:\react-native-elements-app\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] D:\react-native-elements-app\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] D:\react-native-elements-app\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] D:\react-native-elements-app\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] D:\react-native-elements-app\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] D:\react-native-elements-app\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] D:\react-native-elements-app\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] D:\react-native-elements-app\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] D:\react-native-elements-app\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\67a9066f2a92c2939ac3e903fb67aa8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\67a9066f2a92c2939ac3e903fb67aa8f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\8b3470d136534dbcae291cdc8d676410\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\8b3470d136534dbcae291cdc8d676410\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\de283cfbead77e0ec67f167aeedffda1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\de283cfbead77e0ec67f167aeedffda1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha01] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0-alpha01.aar\74cd5f305e4237b2b9d1635b7c3d18db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha01] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0-alpha01.aar\74cd5f305e4237b2b9d1635b7c3d18db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f010927334b527328d7b3ae721a7883e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f010927334b527328d7b3ae721a7883e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\b6784084e17edade6b2d3a54b398233d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\b6784084e17edade6b2d3a54b398233d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\eab8e4e83f1064ad73d1f2d02986f801\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\eab8e4e83f1064ad73d1f2d02986f801\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d26897bcfe08b2785e00aa3a38ab1cf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d26897bcfe08b2785e00aa3a38ab1cf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\221143db470a8f2fb317a0619a606bba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\221143db470a8f2fb317a0619a606bba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\d39e0a5667a3f8d15e10036683b4d4a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\d39e0a5667a3f8d15e10036683b4d4a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\190d69c243c8a51acb5ed52922bf71b1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\190d69c243c8a51acb5ed52922bf71b1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\b43fc3c99c0e14368ac73a26c92a9751\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\b43fc3c99c0e14368ac73a26c92a9751\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c9f33265e3b8d49b291b2d7f886fa1fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c9f33265e3b8d49b291b2d7f886fa1fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4773138db27fd0be3df116f0c52703ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4773138db27fd0be3df116f0c52703ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\0edadc758f2e1f39f65c351b3d020fad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\0edadc758f2e1f39f65c351b3d020fad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1a171e30e63e13ebd08678e405519cbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1a171e30e63e13ebd08678e405519cbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d15601e504484151de83af417859fde1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\d15601e504484151de83af417859fde1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8e7de93c7f10f7dbac52c9c169e1446a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8e7de93c7f10f7dbac52c9c169e1446a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\136599e5921afdf5d005b57a40a5c531\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\136599e5921afdf5d005b57a40a5c531\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a6393915b5fe6d171e23458613f788ea\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a6393915b5fe6d171e23458613f788ea\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\a1bbc9167b00cd8c03d35d69bf95cf35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\a1bbc9167b00cd8c03d35d69bf95cf35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\8d539e3f511010208ad561dfb2dece2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\8d539e3f511010208ad561dfb2dece2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\bb0d1607e6722559411838527f90275e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\bb0d1607e6722559411838527f90275e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6174d2fe1e71b9367e7827c397e20fc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6174d2fe1e71b9367e7827c397e20fc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\2f33901645c8d44b55b1f5ae0512fc1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\2f33901645c8d44b55b1f5ae0512fc1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cd33567c81a482707b90ca33ba7f1473\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cd33567c81a482707b90ca33ba7f1473\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\9a67ae825d40f3baea31a093d37fe296\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\9a67ae825d40f3baea31a093d37fe296\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5dec589c4502fbe4481cb385db309ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5dec589c4502fbe4481cb385db309ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b6bd66e5895a0c50dbed0410e54ea5de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b6bd66e5895a0c50dbed0410e54ea5de\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\7f268c1a595e66c437cd730aa09bcfb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\7f268c1a595e66c437cd730aa09bcfb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\6906cf9409cfa1895be29a23e6948a6a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\6906cf9409cfa1895be29a23e6948a6a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\3160afe9e4121d8476f0f9f76f2ead10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\3160afe9e4121d8476f0f9f76f2ead10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\c344b601b4b0ffff8453668d7807b550\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\c344b601b4b0ffff8453668d7807b550\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\07ca7e970ada27040a0210460207e476\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\07ca7e970ada27040a0210460207e476\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\7543a5b365e8a5be60119e81983407d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\7543a5b365e8a5be60119e81983407d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\b6c93922fdd914ae93d3348c2d01260e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\b6c93922fdd914ae93d3348c2d01260e\AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\ce0836048c0d95c92813b30cb79219ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\ce0836048c0d95c92813b30cb79219ff\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\react-native-elements-app\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] D:\react-native-elements-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] D:\react-native-elements-app\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e8964c4d2b8ab8779a6f921c5e0708de\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\425e913ab6d31a04e8558b208246ee26\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\tuhin\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\6e107bbbfb206af3d4f26c951c67f409\AndroidManifest.xml:26:13-120

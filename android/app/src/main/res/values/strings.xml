@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StockEdge Club</string>
+    <string name="skip_button">Skip</string>
+    <string name="page1_header">Build Connections</string>
+    <string name="page1_body">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.</string>
+    <string name="page2_header">Learn. Engage. Grow</string>
+    <string name="page2_body">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.</string>
+    <string name="page3_header">Introducing Clubs</string>
+    <string name="page3_body">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.</string>
+</resources>
